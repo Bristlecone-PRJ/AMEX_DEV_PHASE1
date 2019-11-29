@@ -9,5 +9,5 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: 'New Issue Reported'' first issue'
-        pr-message: 'Welcome Onboard !'' Our Project'
+        issue-message: 'New Issue Reported''first issue'
+        pr-message: 'Welcome Onboard''Our Project'
